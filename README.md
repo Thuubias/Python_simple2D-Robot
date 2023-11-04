@@ -1,5 +1,5 @@
 # PythonProject_simple2D-Robot
-Simple 2D-robotic arm which uses inverse kinematics and trajectory generator.
+Simple 2D-robotic arm which uses inverse kinematics and trajectory generator. You can simply test it by running main file and code folder also contains unit testing program.
 
 # Pics
 <img width="623" alt="image" src="https://github.com/Thuubias/Python_simple2D-Robot/assets/98958963/5c7173ad-842b-44c4-934f-22e79c77d062">
